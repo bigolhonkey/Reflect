@@ -345,7 +345,7 @@ def menu_yellow4():
 def menu_yellow5():
     word_core_human("Both of you return to your lives...")
     word_core_menu("Will you Say one last thing...")
-    word_core_menu("Stay in teh real world...")
+    word_core_menu("Stay in the real world...")
     word_core_menu("Or let things Go as they will...")
     word_core_menu(">>Say<<  >>Stay<<  >>Go<<")
     ans = str(input("Action: "))
