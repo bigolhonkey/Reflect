@@ -216,7 +216,7 @@ def menu_yellow2():
         word_core_human("You ask them for a day...")
         word_core_human("They accept... Do you...")
     word_core_menu("Talk to people...")
-    word_core_menu("Interact ith people...")
+    word_core_menu("Interact with people...")
     word_core_menu("Go home...")
     word_core_menu("Or have some Fun...")
     word_core_menu(">>Talk<<  >>Interact<<  >>Fun<<  >>Home<<")
